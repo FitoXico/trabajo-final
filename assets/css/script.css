@@ -1,0 +1,31 @@
+h1{
+  font-family: 'Open Sans', sans-serif;
+}
+.nav{
+  position: fixed;
+}
+.navbar {
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+    opacity: 0.9;
+    text-decoration-color: black;
+  }
+  
+  .navbar .nav-item .nav-link {
+    color: rgb(117, 39, 39);
+    text-decoration-color: black;
+  }
+    
+  .team, footer {
+    background: #30336b;
+  }
+  
+ .hero{
+   height:auto;
+   width: 100%;
+ }
+ .contacto{
+   background: tomato;
+ }
+ .nav{
+   position: fixed top;
+ }
